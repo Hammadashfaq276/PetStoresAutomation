@@ -34,7 +34,7 @@ public class UserTest {
 		userPayload.setPassword(faker.internet().password());
 		userPayload.setPhone(faker.phoneNumber().cellPhone());
 		
-		// logs
+		
 		
 	}
 	
